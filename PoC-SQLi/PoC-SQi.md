@@ -14,7 +14,7 @@ During a black-box penetration test, several vulnerabilities were identified tha
 
 |Item| Description|
 |---|---|
-|Target URL| http://www.embryohotel.com|
+|Target | embryohotel.com|
 |Testing Type| Black-box|
 |Credentials Provided| None|
 |Methodology| Manual + Tool|
@@ -72,4 +72,5 @@ PoC-SQLi/
 ├── PoC-SQLi.md
 └── images/
     └── *.png
+
 ```
